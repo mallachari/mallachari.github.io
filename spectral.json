@@ -1,6 +1,5 @@
 {
   "formats": ["oas3"],
-  "extends": ["https://unpkg.com/@backmarket-api/rulesets@1.4.0", "oas:asyncapi", "some-npm-module"],
   "rules": {
     "info-matches-stoplight": {
       "description": "This is an example rule",
